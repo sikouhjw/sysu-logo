@@ -3,7 +3,9 @@
 
 ## 版权声明
 - **校徽版权归[中山大学](https://www.sysu.edu.cn/)所有，本仓库仅用于教育与学习目的。**
-- 官方源文件（`.ai` 文件）下载：[https://home3.sysu.edu.cn/sysuvi/](https://home3.sysu.edu.cn/sysuvi/)。
+- 官方源文件下载：
+  - 校徽相关文件（`.ai` 格式）：[中山大学视觉形象识别系统手册](https://home3.sysu.edu.cn/sysuvi/)；
+  - 三校区五校园线稿相关文件（`.pptx` 格式）：[校庆主题PPT下载](https://sysu100.sysu.edu.cn/info/1301/8571.htm)和[中大校庆ppt模板_红色主题.pptx](https://sysu100.sysu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1996655435&wbfileid=13260396)。
 
 ## 使用说明
 - 矢量图说明：矢量图是由数学公式描述的图像，放大或缩小时不会失真。
